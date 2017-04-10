@@ -1,2 +1,0 @@
-# FHNW
-FHNW Project Folder
